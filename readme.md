@@ -1,4 +1,4 @@
-# Face Detection
+# Yolov5 Streamlit
 ![made-with-python](https://img.shields.io/badge/Made%20with-Python-0078D4.svg)
 ![opencv](https://img.shields.io/badge/OpenCV-27338e?logo=OpenCV&logoColor=white)
 ![streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
